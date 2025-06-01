@@ -4,6 +4,15 @@ Mesajla is a full-stack, real-time chat application with modern features such as
 
 ---
 
+## 🌐 Live Demo
+
+You can try Mesajla live here:
+[Live Demo on Vercel](https://ai-mesajla-v6-deploy.vercel.app/)
+
+No installation needed — just sign up and explore real-time messaging with AI-powered suggestions.
+
+---
+
 ## Tech Stack
 
 Frontend
