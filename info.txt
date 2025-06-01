@@ -1,1 +1,2 @@
-//////
+Deployed on Vercel 
+https://ai-mesajla-v6-deploy.vercel.app/
