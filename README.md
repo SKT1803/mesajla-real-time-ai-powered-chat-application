@@ -151,6 +151,28 @@ Can be turned on/off globally or per chat
 
 - Preview files without needing to download them (pdf, docx, power point, txt, etc.)
 
+<table>
+ <tr>
+    <td><img src="screenshots/14.png" width="500"></td>
+    <td><img src="screenshots/15.png" width="500"></td>
+  </tr>
+   <tr>
+    <td><img src="screenshots/16.png" width="500"></td>
+    <td><img src="screenshots/17.png" width="500"></td>
+  </tr>
+</table>
+
+---
+### UI Customization
+
+- Change chat background color
+
+- Profile photo & name customization
+
+- Supports light/dark-friendly themes
+
+
+
 
 
 
