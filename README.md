@@ -67,8 +67,9 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 
 <table>
  <tr>
-    <td><img src="screenshots/9.png" width="500"></td>
-    <td><img src="screenshots/10.png" width="500"></td>
+    <td><img src="screenshots/20.png" width="500"></td>
+    <td><img src="screenshots/21.png" width="500"></td>
+     <td><img src="screenshots/22.png" width="500"></td>
   </tr>
 </table>
 
