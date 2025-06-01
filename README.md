@@ -51,7 +51,6 @@ Passwords are protected using a secure hashing strategy:
 Thus, passwords are stored as encrypted hashes insead of plain text
 
 
-
 ---
 
 ## Key Features
@@ -64,6 +63,7 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 - Message color styling with custom CSS values
 
 - Send messages in bold or italic using:
+
 
 
 
