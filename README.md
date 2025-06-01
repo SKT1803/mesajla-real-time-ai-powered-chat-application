@@ -55,7 +55,7 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 
 ## Key Features
 
-💬 Messaging
+### 💬 Messaging
 - Real-time 1-on-1 and group messaging
 
 - Message timestamps & unread indicators
@@ -87,7 +87,24 @@ Thus, passwords are stored as encrypted hashes insead of plain text
   </tr>
 </table>
 
+---
+### 🤖 AI Response Suggestions
 
+Toggleable smart replies using an AI trained on:
+
+- 13K+ Turkish conversational samples
+
+- Tagged intents with pattern-response matching
+
+Works by using the latest message as a prompt
+
+Refresh responses as:
+
+- 🔵 Formal
+
+- 🟢 Informal
+
+Can be turned on/off globally or per chat
 
 
 
