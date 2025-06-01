@@ -64,10 +64,33 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 
 - Send messages in bold or italic using:
 
+- Or a combination of all
 
 
+```bash
+/m text: <c1> Selam, nasılsın?
+/m text: <c2> Selam, nasılsın?
+/m text: <c3> Selam, nasılsın?
+/m text: <c4> Selam, nasılsın?
+/m text: <c5> Selam, nasılsın?
+/m text: <c6> Selam, nasılsın?
+/m text: <#b68bcc> Selam, nasılsın?
+/m text: <b> Selam, nasılsın?
+/m text: <i> Selam, nasılsın?
+/m text: <rainbow> Selam, nasılsın?  
+/m text: <i> <c5> Selam, nasılsın?
+```
 
-
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="500"></td>
+    <td><img src="screenshots/2.png" width="500"></td>
+  </tr>
+ <tr>
+    <td><img src="screenshots/5.png" width="500"></td>
+    <td><img src="screenshots/6.png" width="500"></td>
+  </tr>
+</table>
 
 
 
