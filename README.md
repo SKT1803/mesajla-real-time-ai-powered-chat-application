@@ -83,7 +83,7 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 
 <table>
   <tr>
-    <td><img src="screenshots/7.png" width="800"></td>
+    <td><img src="screenshots/7.png" width="1000"></td>
   </tr>
 </table>
 
@@ -109,16 +109,25 @@ Can be turned on/off globally or per chat
 
 <table>
   <tr>
-    <td><img src="screenshots/8.png" width="500"></td>
-    <td><img src="screenshots/9.png" width="500"></td>
+    <td><img src="screenshots/8.png" width="1000"></td>
   </tr>
+</table>
+
+
+<table>
  <tr>
+    <td><img src="screenshots/9.png" width="500"></td>
     <td><img src="screenshots/10.png" width="500"></td>
   </tr>
 </table>
 
 
+---
+### 🤖 AI Response Suggestions
 
+- Global Pins — Visible to everyone in the chat
+
+- Private Pins — Personal bookmarks visible only to you
 
 
 
