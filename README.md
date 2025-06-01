@@ -149,7 +149,7 @@ Can be turned on/off globally or per chat
 
 - Send images, PDFs, text files, etc.
 
-- Preview files without needing to download them
+- Preview files without needing to download them (pdf, docx, power point, txt, etc.)
 
 
 
