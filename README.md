@@ -54,8 +54,8 @@ Database & Storage
 Passwords are protected using a secure hashing strategy:
 
 - Each user gets a unique salt
-- A global paper value is kept server-side
-- Hash = hash(salt + user_password + paper)
+- A global papper value is kept server-side
+- Hash = hash(salt + user_password + papper)
 
 Thus, passwords are stored as encrypted hashes insead of plain text
 
