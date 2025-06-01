@@ -129,12 +129,27 @@ Can be turned on/off globally or per chat
 
 - Private Pins — Personal bookmarks visible only to you
 
+<table>
+  <tr>
+    <td><img src="screenshots/13.png" width="1000"></td>
+  </tr>
+</table>
 
 
+<table>
+ <tr>
+    <td><img src="screenshots/11.png" width="500"></td>
+    <td><img src="screenshots/12.png" width="500"></td>
+  </tr>
+</table>
 
 
+---
+### Media & Files
 
+- Send images, PDFs, text files, etc.
 
+- Preview files without needing to download them
 
 
 
