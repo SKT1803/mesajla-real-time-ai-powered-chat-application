@@ -107,6 +107,15 @@ Refresh responses as:
 Can be turned on/off globally or per chat
 
 
+<table>
+  <tr>
+    <td><img src="screenshots/8.png" width="500"></td>
+    <td><img src="screenshots/9.png" width="500"></td>
+  </tr>
+ <tr>
+    <td><img src="screenshots/10.png" width="500"></td>
+  </tr>
+</table>
 
 
 
