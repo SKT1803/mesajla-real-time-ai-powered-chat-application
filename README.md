@@ -49,13 +49,13 @@ Database & Storage
 
 ---
 
-## Authentication: Salt & Paper
+## Authentication: Salt & Pepper
 
 Passwords are protected using a secure hashing strategy:
 
 - Each user gets a unique salt
-- A global papper value is kept server-side
-- Hash = hash(salt + user_password + papper)
+- A global pepper value is kept server-side
+- Hash = hash(salt + user_password + pepper)
 
 Thus, passwords are stored as encrypted hashes insead of plain text
 
