@@ -27,7 +27,16 @@ Database & Storage
 - Chat Interface — Real-time messaging with full media support
 - Mascot Guided Onboarding — Animated assistant helps you through account setup
 
-
+<table>
+  <tr>
+    <td><img src="screenshots/1.png" width="500"></td>
+    <td><img src="screenshots/2.png" width="500"></td>
+  </tr>
+ <tr>
+    <td><img src="screenshots/3.png" width="500"></td>
+    <td><img src="screenshots/4.png" width="500"></td>
+  </tr>
+</table>
 
 ---
 
