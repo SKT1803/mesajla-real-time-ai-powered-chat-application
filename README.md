@@ -55,6 +55,27 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 
 ## Key Features
 
+
+### Contacts & Groups
+
+- Add friends by email
+
+- Create chat groups
+
+- Email acts as a unique user identifier
+
+
+<table>
+ <tr>
+    <td><img src="screenshots/9.png" width="500"></td>
+    <td><img src="screenshots/10.png" width="500"></td>
+  </tr>
+</table>
+
+
+
+---
+
 ### 💬 Messaging
 - Real-time 1-on-1 and group messaging
 
@@ -173,6 +194,12 @@ Can be turned on/off globally or per chat
 
 
 
+<table>
+ <tr>
+    <td><img src="screenshots/18.png" width="500"></td>
+    <td><img src="screenshots/19.png" width="500"></td>
+  </tr>
+</table>
 
 
 
