@@ -191,14 +191,15 @@ Can be turned on/off globally or per chat
 
 - Profile photo & name customization
 
-- Supports light/dark-friendly themes
-
-
 
 <table>
  <tr>
     <td><img src="screenshots/18.png" width="500"></td>
     <td><img src="screenshots/19.png" width="500"></td>
+  </tr>
+   <tr>
+    <td><img src="screenshots/23.png" width="500"></td>
+    <td><img src="screenshots/24.png" width="500"></td>
   </tr>
 </table>
 
