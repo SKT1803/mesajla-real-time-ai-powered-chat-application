@@ -123,7 +123,7 @@ Can be turned on/off globally or per chat
 
 
 ---
-### 🤖 AI Response Suggestions
+### 📌 Pinning Messages
 
 - Global Pins — Visible to everyone in the chat
 
