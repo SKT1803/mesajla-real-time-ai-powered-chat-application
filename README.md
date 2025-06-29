@@ -264,7 +264,7 @@ Users can now lock their individual chats with a password for an added layer of 
 
 
 
-###🖌️ Stylish & Colorful Text (No Commands Needed)
+### 🖌️ Stylish & Colorful Text (No Commands Needed)
 
 Text formatting is now easier than ever:
 
