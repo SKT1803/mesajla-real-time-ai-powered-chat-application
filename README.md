@@ -43,7 +43,7 @@ Database & Storage
   </tr>
  <tr>
     <td><img src="screenshots/3.png" width="500"></td>
-    <td><img src="screenshots/4.png" width="500"></td>
+    <td><img src="screenshots/25.png" width="500"></td>
   </tr>
 </table>
 
