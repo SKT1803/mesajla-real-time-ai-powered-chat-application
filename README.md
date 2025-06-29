@@ -119,6 +119,25 @@ Thus, passwords are stored as encrypted hashes insead of plain text
 </table>
 
 ---
+###  Unread Message Counter
+
+Stay on top of conversations effortlessly with built-in unread message tracking:
+
+- Real-time unread message count for each chat
+
+- Bold or highlighted chat previews for conversations with unseen messages
+
+- Automatically clears when a user views the chat
+
+- Counter resets only for the user who read the messages — accurate per-user tracking
+
+
+<table>
+  <tr> <td><img src="screenshots/26.png" width="1000"></td> 
+</tr> </table>
+
+---
+
 ### 🤖 AI Response Suggestions
 
 Toggleable smart replies using an AI trained on:
