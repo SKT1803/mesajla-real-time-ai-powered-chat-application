@@ -231,5 +231,75 @@ Can be turned on/off globally or per chat
   </tr>
 </table>
 
+---
+
+# 🚀 MESAJLA VERSION 7
+Mesajla v7 brings exciting new features that enhance privacy, expression, and visual communication — while keeping the platform fast, friendly, and fun.
+
+--- 
+
+## ✨ New Features in v7
+
+### 🔐 Chat Locking
+
+Users can now lock their individual chats with a password for an added layer of privacy.
+
+- Set a custom password per conversation
+
+- Locked chats stay hidden until the correct password is entered
+
+- Quick unlock UI with password hint support
+
+  
+<table>
+ <tr>
+    <td><img src="screenshots/27.png" width="500"></td>
+    <td><img src="screenshots/28.png" width="500"></td>
+  </tr>
+   <tr>
+    <td><img src="screenshots/30.png" width="500"></td>
+    <td><img src="screenshots/35.png" width="500"></td>
+  </tr>
+</table>
+
+
+
+###🖌️ Stylish & Colorful Text (No Commands Needed)
+
+Text formatting is now easier than ever:
+
+- Users can choose styles directly from UI — no need to type /m text commands
+
+- Apply bold, italic, underline, or rainbow effect
+
+- Pick from a palette of custom colors in real time
+
+
+<table>
+ <tr>
+    <td><img src="screenshots/31.png" width="500"></td>
+    <td><img src="screenshots/32.png" width="500"></td>
+  </tr>
+</table>
+
+
+### 🖼️ Self-Vanishing Images
+
+Send disappearing image messages for fun or emotional expression:
+
+- Images vanish after a set time (e.g., 5, 10, or 30 seconds)
+
+- Great for jokes, reactions, or ephemeral content
+
+- Auto-preview countdown timer with UI animation
+
+<table>
+ <tr>
+    <td><img src="screenshots/33.png" width="500"></td>
+    <td><img src="screenshots/34.png" width="500"></td>
+  </tr>
+</table>
+
+
 
 
