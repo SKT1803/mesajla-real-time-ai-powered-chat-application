@@ -3,6 +3,20 @@
 Mesajla is a full-stack, real-time chat application with modern features such as AI-generated message suggestions, custom messaging styles, and group or one-on-one communication — all wrapped in a responsive and user-friendly interface. Whether you're chatting casually or professionally, Mesajla adapts with its intelligent reply generation and customizable options.
 
 ---
+
+## 🧪 Try the Demo — No Signup Needed!
+Explore Mesajla instantly with a ready-to-use test account:
+
+👤 Email:    user1@test.com <br>  
+🔑 Password: 123 <br>
+🔑 locked-chats-password: demo123 <br>
+
+Access all features, <br>
+
+Jump right in and experience Mesajla:
+
+---
+
 ## 🌐 Live Demo
 
 You can try Mesajla live here:
