@@ -8,7 +8,7 @@ Mesajla is a full-stack, real-time chat application with modern features such as
 Explore Mesajla instantly with a ready-to-use test account:
 
 👤 Email:    user1@test.com <br>  
-🔑 Password: demo123 <br>
+🔑 Password: 123 <br>
 🔑 locked-chats-password: demo123 <br>
 
 Access all features, <br>
