@@ -17,10 +17,10 @@ Jump right in and experience Mesajla:
 
 ---
 
-## 🌐 Live Demo
+## 🌐 Live On Vercel
 
 You can try Mesajla live here:
-[Live Demo on Vercel](https://ai-mesajla-v6-deploy.vercel.app/)
+[Live on Vercel](https://ai-mesajla-v6-deploy.vercel.app/)
 
 No installation needed — just sign up and explore real-time messaging with AI-powered suggestions.
 
