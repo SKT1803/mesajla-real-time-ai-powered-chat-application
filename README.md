@@ -1,4 +1,17 @@
-# 💬 Mesajla — Real-Time AI-Powered Chat Application
+<p align="center">
+  <img src="./screenshots/logo.png" width="140" alt="Mesajla Logo" />
+</p>
+
+<h1 align="center">MESAJLA | Real-Time AI-Powered Chat Application</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI- Python%20%7C%20Flask-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Realtime-Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storage-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 Mesajla is a full-stack, real-time chat application with modern features such as AI-generated message suggestions, custom messaging styles, and group or one-on-one communication — all wrapped in a responsive and user-friendly interface. Whether you're chatting casually or professionally, Mesajla adapts with its intelligent reply generation and customizable options.
 
